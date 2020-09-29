@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="testcases"/>
+	<classpathentry kind="src" path="testdata"/>
+	<classpathentry kind="src" path="actions"/>
+	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/commons-io-2.7.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/httpclient5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/httpcore5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/jarchivelib-1.0.0.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="libDriverManagerLatest4.1.0/webdrivermanager-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libraries/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="libraries/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="libraries/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="libraries/testng-6.14.3.jar" sourcepath="C:/Users/ASUS/AppData/Local/Temp/.org.sf.feeling.decompiler1600886672495/source/testng-6.14.3-sources.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="libExtendReport/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="libLogs/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="libLogs/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libLogs/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="libLogs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libLogs/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="libFaker/generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="libFaker/javafaker-1.0.1.jar"/>
+	<classpathentry kind="lib" path="libFaker/snakeyaml-1.23.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
